@@ -78,6 +78,10 @@ body {
 	width: 65%;
 }
 
+#logiciels {
+	display: block;
+	margin: auto;
+
 .ecran {
 	display: flex;
 	width: 100%;
